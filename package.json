@@ -1,0 +1,10 @@
+{
+  "name": "fw-turborepo-remote-cache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Haja Randriakoto",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx turborepo-remote-cache"
+  }
+}
